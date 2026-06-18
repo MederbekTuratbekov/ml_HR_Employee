@@ -1,0 +1,68 @@
+{
+  "OverTime": "Yes",
+  "MonthlyIncome": 2500,
+  "DistanceFromHome": 18,
+  "JobRole": "Sales Representative",
+  "JobSatisfaction": 1,
+  "Age": 22,
+  "EnvironmentSatisfaction": 1,
+  "YearsAtCompany": 1,
+  "WorkLifeBalance": 1
+}
+Ожидаемый ответ: Attrition: Yes
+
+
+{
+  "OverTime": "No",
+  "MonthlyIncome": 15000,
+  "DistanceFromHome": 2,
+  "JobRole": "Manager",
+  "JobSatisfaction": 4,
+  "Age": 45,
+  "EnvironmentSatisfaction": 4,
+  "YearsAtCompany": 12,
+  "WorkLifeBalance": 3
+}
+Ожидаемый ответ: Attrition: No
+
+
+{
+  "OverTime": "Yes",
+  "MonthlyIncome": 8000,
+  "DistanceFromHome": 25,
+  "JobRole": "Manufacturing Director",
+  "JobSatisfaction": 2,
+  "Age": 34,
+  "EnvironmentSatisfaction": 2,
+  "YearsAtCompany": 5,
+  "WorkLifeBalance": 2
+}
+Ожидаемый ответ: Attrition: Yes
+
+
+{
+  "OverTime": "No",
+  "MonthlyIncome": 4200,
+  "DistanceFromHome": 5,
+  "JobRole": "Research Scientist",
+  "JobSatisfaction": 4,
+  "Age": 28,
+  "EnvironmentSatisfaction": 3,
+  "YearsAtCompany": 3,
+  "WorkLifeBalance": 4
+}
+Ожидаемый ответ: Attrition: No
+
+
+{
+  "OverTime": "No",
+  "MonthlyIncome": 3100,
+  "DistanceFromHome": 29,
+  "JobRole": "Laboratory Technician",
+  "JobSatisfaction": 1,
+  "Age": 31,
+  "EnvironmentSatisfaction": 1,
+  "YearsAtCompany": 2,
+  "WorkLifeBalance": 2
+}
+Ожидаемый ответ: Attrition: Yes
